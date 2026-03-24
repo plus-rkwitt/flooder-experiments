@@ -1,4 +1,3 @@
-learning/baselines/pointnet2_ops_lib/*
 data/*
 # Byte-compiled / optimized / DLL files
 __pycache__/
